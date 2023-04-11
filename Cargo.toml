@@ -30,7 +30,7 @@ serde = "1.0"
 serde_json = "1.0"
 serde_derive = "1.0"
 futures = "0.1"
-hyper = { version = "0.12" }
+hyper = { version = "0.14" }
 fdlimit = "0.1"
 ctrlc = { git = "https://github.com/paritytech/rust-ctrlc.git" }
 jsonrpc-core = "15.0.0"
